@@ -1,1 +1,4 @@
-# ultimate_webdev_resources
+# Ultimate WebDev resources
+
+### Other Github repos
+- [Developer resources](https://github.com/codingknite/frontend-development)
