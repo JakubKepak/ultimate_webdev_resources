@@ -25,3 +25,8 @@
 - [Scope vs Context](https://blog.kevinchisholm.com/javascript/difference-between-scope-and-context/#:~:text=Context%20is%20related%20to%20objects,to%20which%20a%20function%20belongs.)
 - [JavascriptInfo - function binding](https://javascript.info/bind)
 - [Ultimate Courses - *this* keyword](https://ultimatecourses.com/blog/understanding-the-this-keyword-in-javascript)
+
+
+### React   
+- [React Patterns](https://reactpatterns.com/)
+- [Comparison of HOC x Render Props X Hooks](https://medium.com/simply/comparison-hocs-vs-render-props-vs-hooks-55f9ffcd5dc6)
