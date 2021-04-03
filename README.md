@@ -30,3 +30,24 @@
 ### React   
 - [React Patterns](https://reactpatterns.com/)
 - [Comparison of HOC x Render Props X Hooks](https://medium.com/simply/comparison-hocs-vs-render-props-vs-hooks-55f9ffcd5dc6)
+
+
+---
+## Cool Tools   
+All kinds of tools and cool stuff   
+
+### Icons   
+- [Google Fonts has also icons](https://fonts.google.com/icons)
+
+### Avatars   
+- [Pixeltrue.com](https://www.pixeltrue.com/)
+
+### Color pallettes & discovery   
+- [enes.in](https://enes.in/sorted-colors/)
+
+### Blobs & Shapes  
+- [blobs.app](https://blobs.app/)
+- [Mesh Gradients](https://meshgradient.com/)
+
+### VSCode   
+- [Not only VSCode theme](https://themes.vscode.one/)
