@@ -30,11 +30,20 @@
 ### React   
 - [React Patterns](https://reactpatterns.com/)
 - [Comparison of HOC x Render Props X Hooks](https://medium.com/simply/comparison-hocs-vs-render-props-vs-hooks-55f9ffcd5dc6)
+- [all stuff about react](https://github.com/enaqx/awesome-react)
 
+
+**React Tools**   
+- [Framer Motion Docs](https://www.framer.com/api/motion/)
+
+### Styled Components
+- [cool article best practices](https://www.joshwcomeau.com/css/styled-components/)
 
 ---
 ## Cool Tools   
-All kinds of tools and cool stuff   
+All kinds of tools and cool stuff
+
+- [free stuff for devs](https://free-for.dev/#/)
 
 ### Icons   
 - [Google Fonts has also icons](https://fonts.google.com/icons)
@@ -48,6 +57,14 @@ All kinds of tools and cool stuff
 ### Blobs & Shapes  
 - [blobs.app](https://blobs.app/)
 - [Mesh Gradients](https://meshgradient.com/)
+- [Waves](https://www.svgwaves.io/)
+- [pattern generator](https://doodad.dev/pattern-generator/)
+
+### CSS styles
+- [Glassmorphism.com](https://glassmorphism.com/)
 
 ### VSCode   
-- [Not only VSCode theme](https://themes.vscode.one/)
+- [Not only VSCode theme](https://themes.vscode.one/)   
+
+### Public APIs
+- [public-apis.io](https://public-apis.io/)
