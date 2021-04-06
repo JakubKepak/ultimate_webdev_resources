@@ -44,12 +44,21 @@
 All kinds of tools and cool stuff
 
 - [free stuff for devs](https://free-for.dev/#/)
+- [Tools for everyday use](https://omatsuri.app/)
+
+### Fonts
+- [Compatibility table of fonts](http://fontfamily.io/)
 
 ### Icons   
 - [Google Fonts has also icons](https://fonts.google.com/icons)
+- [svgrepo.com](https://www.svgrepo.com/)
+
+### Illustrations
+- [Vektors.pro](https://www.vektors.pro/)
 
 ### Avatars   
 - [Pixeltrue.com](https://www.pixeltrue.com/)
+- [PowerPeople](https://powerpeopleplatform.com/)
 
 ### Color pallettes & discovery   
 - [enes.in](https://enes.in/sorted-colors/)
@@ -59,9 +68,11 @@ All kinds of tools and cool stuff
 - [Mesh Gradients](https://meshgradient.com/)
 - [Waves](https://www.svgwaves.io/)
 - [pattern generator](https://doodad.dev/pattern-generator/)
+- [tabbied pattern generator](https://tabbied.com/)
 
 ### CSS styles
 - [Glassmorphism.com](https://glassmorphism.com/)
+- [Tailwind css blocks](https://blocks.wickedtemplates.com/)
 
 ### VSCode   
 - [Not only VSCode theme](https://themes.vscode.one/)   
