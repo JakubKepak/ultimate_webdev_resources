@@ -27,10 +27,19 @@
 - [Ultimate Courses - *this* keyword](https://ultimatecourses.com/blog/understanding-the-this-keyword-in-javascript)
 
 
+### Typescript   
+
+**Best Practice**
+- [10 bat habits to get rid of](https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/)
+
+
 ### React   
 - [React Patterns](https://reactpatterns.com/)
 - [Comparison of HOC x Render Props X Hooks](https://medium.com/simply/comparison-hocs-vs-render-props-vs-hooks-55f9ffcd5dc6)
 - [all stuff about react](https://github.com/enaqx/awesome-react)
+
+***Best Practice***
+- [Write better react](https://alexkondov.com/tao-of-react/)
 
 
 **React Tools**   
@@ -48,20 +57,38 @@ All kinds of tools and cool stuff
 
 ### Fonts
 - [Compatibility table of fonts](http://fontfamily.io/)
+- [devfonts](https://devfonts.gafi.dev/)
 
 ### Icons   
 - [Google Fonts has also icons](https://fonts.google.com/icons)
 - [svgrepo.com](https://www.svgrepo.com/)
+- [phsphoricons](https://phosphoricons.com/)
+- [iconPark](https://github.com/bytedance/IconPark?ck_subscriber_id=478662062)
+- [Radix Icons](https://icons.modulz.app/)
 
 ### Illustrations
 - [Vektors.pro](https://www.vektors.pro/)
+- [pixeltrue](https://www.pixeltrue.com/free-illustrations)
 
 ### Avatars   
 - [Pixeltrue.com](https://www.pixeltrue.com/)
 - [PowerPeople](https://powerpeopleplatform.com/)
+- [Multiavatar](https://multiavatar.com/)
+
+### Loaders   
+- [loader generator based on framer motion](https://loaders.io/)
 
 ### Color pallettes & discovery   
 - [enes.in](https://enes.in/sorted-colors/)
+- [farbvelo](https://farbvelo.elastiq.ch/)
+- [colorbox.io](https://colorbox.io/)
+- [Tint and shade](https://maketintsandshades.com/)
+
+### Templates   
+- [Tailwind templates - Creative Tim](https://www.creative-tim.com/search?utf8=%E2%9C%93&q=notus)
+
+### Audio
+- [cchound](https://cchound.com/)
 
 ### Blobs & Shapes  
 - [blobs.app](https://blobs.app/)
@@ -69,13 +96,24 @@ All kinds of tools and cool stuff
 - [Waves](https://www.svgwaves.io/)
 - [pattern generator](https://doodad.dev/pattern-generator/)
 - [tabbied pattern generator](https://tabbied.com/)
+- [3D shaper](https://www.shapefest.com/)
+- [CSS Background patterns](https://www.magicpattern.design/tools/css-backgrounds)
 
 ### CSS styles
 - [Glassmorphism.com](https://glassmorphism.com/)
 - [Tailwind css blocks](https://blocks.wickedtemplates.com/)
+
+### Logo Makers
+- [formito](https://formito.com/tools/logo)
 
 ### VSCode   
 - [Not only VSCode theme](https://themes.vscode.one/)   
 
 ### Public APIs
 - [public-apis.io](https://public-apis.io/)
+
+### Bookks   
+- [Free programming books](https://github.com/EbookFoundation/free-programming-books)
+
+### Practice
+- [ui coach](https://uicoach.io/app)
