@@ -13,9 +13,15 @@
 ### GraphQL
 - [Thinking in GraphQL](https://relay.dev/docs/principles-and-architecture/thinking-in-graphql/)
 
+*tools*   
+- [GraphQL voyager](https://apis.guru/graphql-voyager/)
+- [GraphQL LoDash](https://github.com/APIs-guru/graphql-lodash)
+- [Onegraph](https://www.onegraph.com/)
+- [GraphQL code generator](https://www.graphql-code-generator.com/)
+
 ### JavaScript
 
-***this* keyword**
+*this* keyword
 - [Excercises on this keyword](https://github.com/joinpursuit/AC3.1/blob/master/lessons/javascript-advanced/object-prototypes/this-keyword-exercises.md)
 - [explanation of this keyword on Quora](https://www.quora.com/Can-anyone-give-me-ways-to-practice-the-this-keyword-in-Javascript)
 - [explanation of bind() method on StackOverflow](https://stackoverflow.com/questions/2236747/what-is-the-use-of-the-javascript-bind-method#:~:text=Summary%3A,in%20the%20bind()%20function.)
@@ -117,3 +123,12 @@ All kinds of tools and cool stuff
 
 ### Practice
 - [ui coach](https://uicoach.io/app)
+
+### Misc
+- [fly.io](https://fly.io/)
+
+## Practice
+
+### Frontend
+- [frontendpractice](https://www.frontendpractice.com/)
+- [frontendmentor](https://www.frontendmentor.io/solutions)
