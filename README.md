@@ -71,6 +71,7 @@ All kinds of tools and cool stuff
 - [phsphoricons](https://phosphoricons.com/)
 - [iconPark](https://github.com/bytedance/IconPark?ck_subscriber_id=478662062)
 - [Radix Icons](https://icons.modulz.app/)
+- [css.gg](https://css.gg/)
 
 ### Illustrations
 - [Vektors.pro](https://www.vektors.pro/)
@@ -121,9 +122,6 @@ All kinds of tools and cool stuff
 ### Bookks   
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books)
 
-### Practice
-- [ui coach](https://uicoach.io/app)
-
 ### Misc
 - [fly.io](https://fly.io/)
 
@@ -132,3 +130,7 @@ All kinds of tools and cool stuff
 ### Frontend
 - [frontendpractice](https://www.frontendpractice.com/)
 - [frontendmentor](https://www.frontendmentor.io/solutions)
+- [ui coach](https://uicoach.io/app)
+- [dev challenges](https://devchallenges.io/)
+- [The Odin Project](https://www.theodinproject.com/)
+- [Exercism.io](https://exercism.io/)
