@@ -21,6 +21,9 @@
 
 ### JavaScript
 
+Best practice
+- [W3C](https://www.w3.org/wiki/JavaScript_best_practices)
+
 *this* keyword
 - [Excercises on this keyword](https://github.com/joinpursuit/AC3.1/blob/master/lessons/javascript-advanced/object-prototypes/this-keyword-exercises.md)
 - [explanation of this keyword on Quora](https://www.quora.com/Can-anyone-give-me-ways-to-practice-the-this-keyword-in-Javascript)
@@ -76,6 +79,10 @@ All kinds of tools and cool stuff
 ### Illustrations
 - [Vektors.pro](https://www.vektors.pro/)
 - [pixeltrue](https://www.pixeltrue.com/free-illustrations)
+- [Undraw](https://undraw.co/)
+- [Custom illustration](https://manufactory.craftwork.design/)
+- [storyset](https://storyset.com/)
+- [Mockups - mobile, watch, desktop](https://mockups.pixeltrue.com/all/1)
 
 ### Avatars   
 - [Pixeltrue.com](https://www.pixeltrue.com/)
@@ -124,6 +131,7 @@ All kinds of tools and cool stuff
 
 ### Misc
 - [fly.io](https://fly.io/)
+- [UI inspiration](https://www.nucleus-ui.com/screens)
 
 ## Practice
 
@@ -134,3 +142,4 @@ All kinds of tools and cool stuff
 - [dev challenges](https://devchallenges.io/)
 - [The Odin Project](https://www.theodinproject.com/)
 - [Exercism.io](https://exercism.io/)
+- [UX](https://uxtools.co/challenges)
