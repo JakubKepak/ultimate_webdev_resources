@@ -57,12 +57,16 @@ Best practice
 ### Styled Components
 - [cool article best practices](https://www.joshwcomeau.com/css/styled-components/)
 
+## Interview Questions
+-[400 interview questions (Apr 2021)](https://dev.to/worldindev/400-javascript-interview-questions-with-answers-2fcj)
+
 ---
 ## Cool Tools   
 All kinds of tools and cool stuff
 
 - [free stuff for devs](https://free-for.dev/#/)
 - [Tools for everyday use](https://omatsuri.app/)
+- [frontened toolkit](https://www.fetoolkit.io/)
 
 ### Fonts
 - [Compatibility table of fonts](http://fontfamily.io/)
@@ -100,6 +104,8 @@ All kinds of tools and cool stuff
 
 ### Templates   
 - [Tailwind templates - Creative Tim](https://www.creative-tim.com/search?utf8=%E2%9C%93&q=notus)
+- [React components](https://headlessui.dev/)
+- [soft ui dashboard](https://www.creative-tim.com/product/soft-ui-dashboard?partner=146350)
 
 ### Audio
 - [cchound](https://cchound.com/)
@@ -143,3 +149,6 @@ All kinds of tools and cool stuff
 - [The Odin Project](https://www.theodinproject.com/)
 - [Exercism.io](https://exercism.io/)
 - [UX](https://uxtools.co/challenges)
+
+### Misc
+- [Learn Git interactively](https://learngitbranching.js.org/)
