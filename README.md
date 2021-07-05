@@ -9,7 +9,6 @@
 - [Webdev resources](https://github.com/andrews1022/web-development-2021-course-list) With links to learning resources
 - [Zero to mastery resources](https://github.com/zero-to-mastery/resources)
 
-
 ### GraphQL
 - [Thinking in GraphQL](https://relay.dev/docs/principles-and-architecture/thinking-in-graphql/)
 
@@ -79,6 +78,13 @@ All kinds of tools and cool stuff
 - [iconPark](https://github.com/bytedance/IconPark?ck_subscriber_id=478662062)
 - [Radix Icons](https://icons.modulz.app/)
 - [css.gg](https://css.gg/)
+- [IconShock](https://www.iconshock.com/vectoricons/)
+
+### Buttons
+- [Copy & Paste CSS buttons](https://copy-paste-css.com/)
+
+### Images & Tints
+- [Tint my Image](https://tinter.uxie.io/)
 
 ### Illustrations
 - [Vektors.pro](https://www.vektors.pro/)
@@ -92,6 +98,7 @@ All kinds of tools and cool stuff
 - [Pixeltrue.com](https://www.pixeltrue.com/)
 - [PowerPeople](https://powerpeopleplatform.com/)
 - [Multiavatar](https://multiavatar.com/)
+- [Avatar generator](https://nice-avatar.chilllab.io/)
 
 ### Loaders   
 - [loader generator based on framer motion](https://loaders.io/)
@@ -101,11 +108,13 @@ All kinds of tools and cool stuff
 - [farbvelo](https://farbvelo.elastiq.ch/)
 - [colorbox.io](https://colorbox.io/)
 - [Tint and shade](https://maketintsandshades.com/)
+- [Mobile Palette Generator](https://mobilepalette.colorion.co/)
 
 ### Templates   
 - [Tailwind templates - Creative Tim](https://www.creative-tim.com/search?utf8=%E2%9C%93&q=notus)
 - [React components](https://headlessui.dev/)
 - [soft ui dashboard](https://www.creative-tim.com/product/soft-ui-dashboard?partner=146350)
+- [Figma CV templates](https://resume.gg/)
 
 ### Audio
 - [cchound](https://cchound.com/)
@@ -134,6 +143,7 @@ All kinds of tools and cool stuff
 
 ### Bookks   
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books)
+- [JS Deep Dive](https://exploringjs.com/deep-js/toc.html)
 
 ### Misc
 - [fly.io](https://fly.io/)
@@ -152,3 +162,6 @@ All kinds of tools and cool stuff
 
 ### Misc
 - [Learn Git interactively](https://learngitbranching.js.org/)
+
+### OpenSource
+- [Up For Grabs](https://up-for-grabs.net/#/)
